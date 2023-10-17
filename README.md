@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @myyleah
+- 👀 I’m interested in learing more about coding. 
+- 🌱 I’m currently learning C#, HTML, CSS, JAVASCRIPT AND SQL.
+- 📫 How to reach me ...
