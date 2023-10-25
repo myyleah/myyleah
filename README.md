@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @myyleah
-- 👀 I’m interested in learing more about coding. 
-- 🌱 I’m currently learning C#, HTML, CSS, JAVASCRIPT AND SQL.
-- 📫 How to reach me ...
+-  Hi, I’m Myleah J!
+-  I’m interested in learing more about coding. 
+-  I’m currently learning C#, HTML, CSS, JAVASCRIPT AND SQL.
+- Comptuer Informations Systems Major at the University of Louisville.
